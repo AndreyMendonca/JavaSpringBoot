@@ -10,4 +10,5 @@ public class WebServiceSpringBootJpaApplication {
 		SpringApplication.run(WebServiceSpringBootJpaApplication.class, args);
 	}
 
+	
 }
